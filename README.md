@@ -6,7 +6,7 @@
 ## ✨ Features
 
 ### 🔍 Universal Text Search
-- Search selected text from **code editor**, **terminal**, and **run consoles**
+- Search selected text from **code editor**, **terminal**, and **consoles**
 - Right-click context menu integration
 - Opens results in your default browser
 
