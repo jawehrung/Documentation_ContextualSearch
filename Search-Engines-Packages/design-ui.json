@@ -1,0 +1,22 @@
+[
+  {
+    "enabled": false,
+    "name": "Dribbble",
+    "url": "https://dribbble.com/search/%s"
+  },
+  {
+    "enabled": false,
+    "name": "Behance",
+    "url": "https://www.behance.net/search/projects?search=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Font Awesome",
+    "url": "https://fontawesome.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Google Fonts",
+    "url": "https://fonts.google.com/?query=%s"
+  }
+]

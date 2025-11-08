@@ -1,0 +1,22 @@
+[
+  {
+    "enabled": false,
+    "name": "CVE Details",
+    "url": "https://www.cvedetails.com/google-search-results.php?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "NIST NVD",
+    "url": "https://nvd.nist.gov/vuln/search/results?query=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Snyk Vulnerability DB",
+    "url": "https://security.snyk.io/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "OWASP",
+    "url": "https://owasp.org/www-community/search?q=%s"
+  }
+]

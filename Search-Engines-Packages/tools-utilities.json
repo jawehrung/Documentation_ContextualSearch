@@ -1,0 +1,27 @@
+[
+  {
+    "enabled": false,
+    "name": "Regex101",
+    "url": "https://regex101.com/?regex=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Can I Use",
+    "url": "https://caniuse.com/?search=%s"
+  },
+  {
+    "enabled": false,
+    "name": "npm trends",
+    "url": "https://npmtrends.com/%s"
+  },
+  {
+    "enabled": false,
+    "name": "Libraries.io",
+    "url": "https://libraries.io/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Snyk Advisor",
+    "url": "https://snyk.io/advisor/search?q=%s"
+  }
+]

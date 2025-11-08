@@ -1,0 +1,32 @@
+[
+  {
+    "enabled": false,
+    "name": "GitHub",
+    "url": "https://github.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "GitLab",
+    "url": "https://gitlab.com/search?search=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Bitbucket",
+    "url": "https://bitbucket.org/repo/all?name=%s"
+  },
+  {
+    "enabled": false,
+    "name": "SourceForge",
+    "url": "https://sourceforge.net/directory/?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Codeberg",
+    "url": "https://codeberg.org/explore/repos?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Gitee",
+    "url": "https://gitee.com/search?q=%s"
+  }
+]

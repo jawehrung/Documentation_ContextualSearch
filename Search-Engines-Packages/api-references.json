@@ -1,0 +1,17 @@
+[
+  {
+    "enabled": false,
+    "name": "RapidAPI",
+    "url": "https://rapidapi.com/search/%s"
+  },
+  {
+    "enabled": false,
+    "name": "Public APIs",
+    "url": "https://github.com/public-apis/public-apis/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Postman API Network",
+    "url": "https://www.postman.com/search?q=%s"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "enabled": false,
+    "name": "Docker Hub",
+    "url": "https://hub.docker.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Quay.io",
+    "url": "https://quay.io/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Artifact Hub",
+    "url": "https://artifacthub.io/packages/search?ts_query_web=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Terraform Registry",
+    "url": "https://registry.terraform.io/search/modules?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Ansible Galaxy",
+    "url": "https://galaxy.ansible.com/search?keywords=%s"
+  }
+]

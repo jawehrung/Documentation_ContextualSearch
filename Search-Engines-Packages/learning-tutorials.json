@@ -1,0 +1,42 @@
+[
+  {
+    "enabled": false,
+    "name": "GeeksforGeeks",
+    "url": "https://www.geeksforgeeks.org/?s=%s"
+  },
+  {
+    "enabled": false,
+    "name": "LeetCode",
+    "url": "https://leetcode.com/problemset/?search=%s"
+  },
+  {
+    "enabled": false,
+    "name": "HackerRank",
+    "url": "https://www.hackerrank.com/domains/tutorials/10-days-of-javascript?filters%5Bsubdomains%5D%5B%5D=%s"
+  },
+  {
+    "enabled": false,
+    "name": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=%s"
+  },
+  {
+    "enabled": false,
+    "name": "TutorialsPoint",
+    "url": "https://www.tutorialspoint.com/search/search.php?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Baeldung",
+    "url": "https://www.baeldung.com/?s=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Real Python",
+    "url": "https://realpython.com/search?q=%s"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "enabled": false,
+    "name": "Google",
+    "url": "https://www.google.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Bing",
+    "url": "https://www.bing.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "DuckDuckGo",
+    "url": "https://duckduckgo.com/?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Yahoo",
+    "url": "https://search.yahoo.com/search?p=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Brave Search",
+    "url": "https://search.brave.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Ecosia",
+    "url": "https://www.ecosia.org/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Qwant",
+    "url": "https://www.qwant.com/?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Yandex",
+    "url": "https://yandex.com/search/?text=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Startpage",
+    "url": "https://www.startpage.com/do/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Swisscows",
+    "url": "https://swisscows.com/web?query=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Baidu",
+    "url": "https://www.baidu.com/s?wd=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Searx",
+    "url": "https://searx.be/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Mojeek",
+    "url": "https://www.mojeek.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Kagi",
+    "url": "https://kagi.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "You.com",
+    "url": "https://you.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Perplexity",
+    "url": "https://www.perplexity.ai/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Phind",
+    "url": "https://www.phind.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Neeva",
+    "url": "https://neeva.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Gibiru",
+    "url": "https://gibiru.com/results.html?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "MetaGer",
+    "url": "https://metager.org/meta/meta.ger3?eingabe=%s"
+  }
+]

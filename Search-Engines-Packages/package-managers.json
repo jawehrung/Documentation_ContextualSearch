@@ -1,0 +1,72 @@
+[
+  {
+    "enabled": false,
+    "name": "npm",
+    "url": "https://www.npmjs.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "PyPI",
+    "url": "https://pypi.org/search/?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Maven Central",
+    "url": "https://search.maven.org/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "NuGet",
+    "url": "https://www.nuget.org/packages?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "crates.io",
+    "url": "https://crates.io/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Packagist",
+    "url": "https://packagist.org/?query=%s"
+  },
+  {
+    "enabled": false,
+    "name": "RubyGems",
+    "url": "https://rubygems.org/search?query=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Hex.pm",
+    "url": "https://hex.pm/packages?search=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Go Packages",
+    "url": "https://pkg.go.dev/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "CPAN",
+    "url": "https://metacpan.org/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Pub.dev",
+    "url": "https://pub.dev/packages?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "CocoaPods",
+    "url": "https://cocoapods.org/?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Homebrew",
+    "url": "https://formulae.brew.sh/formula/%s"
+  },
+  {
+    "enabled": false,
+    "name": "Chocolatey",
+    "url": "https://community.chocolatey.org/packages?q=%s"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "enabled": false,
+    "name": "CodePen",
+    "url": "https://codepen.io/search/pens?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "JSFiddle",
+    "url": "https://jsfiddle.net/search/?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Replit",
+    "url": "https://replit.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Rosetta Code",
+    "url": "http://rosettacode.org/wiki/Special:Search?search=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Code Grepper",
+    "url": "https://www.codegrepper.com/search.php?q=%s"
+  }
+]

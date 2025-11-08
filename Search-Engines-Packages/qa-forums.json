@@ -1,0 +1,52 @@
+[
+  {
+    "enabled": false,
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Server Fault",
+    "url": "https://serverfault.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Super User",
+    "url": "https://superuser.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Ask Ubuntu",
+    "url": "https://askubuntu.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Unix & Linux SE",
+    "url": "https://unix.stackexchange.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Code Review SE",
+    "url": "https://codereview.stackexchange.com/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Reddit r/programming",
+    "url": "https://www.reddit.com/r/programming/search/?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Reddit r/learnprogramming",
+    "url": "https://www.reddit.com/r/learnprogramming/search/?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Dev.to",
+    "url": "https://dev.to/search?q=%s"
+  },
+  {
+    "enabled": false,
+    "name": "Hashnode",
+    "url": "https://hashnode.com/search?q=%s"
+  }
+]
