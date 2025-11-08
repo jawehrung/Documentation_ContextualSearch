@@ -23,7 +23,7 @@
 - Checkbox to enable/disable engines on-the-fly
 
 ## Thematic search engines packages ready to install
-- 12 Predefined packages for popular developer resources
+- 12 Predefined packages for popular developer resources ([Github](https://github.com/jawehrung/-Documentation_ContextualSreach/tree/master/Search-Engines-Packages))
   - General Search Engines
   - Q&A Forums
   - Code Repositories
